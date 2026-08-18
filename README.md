@@ -113,5 +113,5 @@ Kontribusi Anda sangat kami harapkan! Baik itu berupa ide, laporan bug, atau pul
 
 Punya pertanyaan, saran, atau ingin berdiskusi?
 
-Email: [adammiftah196@gmail.com] 
+Email: [mochabdulwahid679@gmail.com] 
 
