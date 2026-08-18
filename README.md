@@ -30,7 +30,6 @@ Dalam era digital ini, manajemen akademik yang efisien adalah kunci. Aplikasi ka
 * 📢 **Portal Pengumuman & Informasi Terpusat**
 * 📈 **Dashboard Interaktif & Pelaporan Analitik**
 * 🔐 **Sistem Autentikasi & Keamanan Berlapis**
-* *(Tambahkan fitur spesifik lain yang menonjol di proyek Anda)*
 
 ---
 
@@ -96,18 +95,7 @@ password : password123
 - **Fitur Diskusi Online per Mata Kuliah**
 - **Pengembangan Aplikasi Mobile Pendamping**
 
----    
-
-## 🤝 Ingin Berkontribusi?
-Kontribusi Anda sangat kami harapkan! Baik itu berupa ide, laporan bug, atau pull request.
-- **Fork repository ini.**
-- **Buat Branch baru (git checkout -b fitur/NamaFiturAnda).**
-- **Commit perubahan Anda (git commit -m 'Menambahkan fitur keren').**
-- **Push ke branch Anda (git push origin fitur/NamaFiturAnda).**
-- **Buat Pull Request baru.**
-- **Pastikan untuk mengikuti panduan kontribusi (jika ada file CONTRIBUTING.md).**
-
----
+---  
 
 ## 💌 Kontak & Dukungan
 
